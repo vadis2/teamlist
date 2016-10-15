@@ -1,0 +1,20 @@
+{
+  "name": "teamslist",
+  "version": "1.0.0",
+  "description": "Football League component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "static ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadis2/teamlist.git"
+  },
+  "author": "Volodymyr Vadiasov <vadiasov.volodymyr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadis2/teamlist/issues"
+  },
+  "homepage": "https://github.com/vadis2/teamlist#readme"
+}
