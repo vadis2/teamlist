@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/vadis2/teamlist/issues"
   },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  },
   "homepage": "https://github.com/vadis2/teamlist#readme"
 }
